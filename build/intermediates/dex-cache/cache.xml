@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Udacity\Scrapee\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Udacity\Scrapee\app\build\intermediates\pre-dexed\debug\classes-ba684636a27ec53884247d26c59fae5ab046d39c.jar" />
+    </item>
+    <item
+        jar="D:\Udacity\Scrapee\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Udacity\Scrapee\app\build\intermediates\pre-dexed\debug\classes-5102ca231972fa7d50353fe235b260760c28dfb0.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Udacity\Scrapee\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-9c7f0f00a3d76e88d03ff501363eae75a59facb5.jar" />
+    </item>
+    <item
+        jar="D:\Udacity\Scrapee\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Udacity\Scrapee\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-da04d425d1331c7685fbe9fcfdfffc6c626b0837.jar" />
+    </item>
+    <item
+        jar="D:\Udacity\Scrapee\app\libs\jsoup-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="580e4dd2a6125cc4037450b40623ac6a552c11df">
+        <dex dex="D:\Udacity\Scrapee\app\build\intermediates\pre-dexed\debug\jsoup-1.8.2-9b98b46736173d36a75847c45b6be4f8daf9a5a9.jar" />
+    </item>
+
+</items>
